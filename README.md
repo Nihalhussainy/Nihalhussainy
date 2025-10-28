@@ -58,50 +58,6 @@ I'm a dedicated problem-solver with a strong track record in competitive program
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
-I'm continuously expanding my skillset and staying updated with industry trends:
-
-- ☁️ Cloud Technologies: AWS (EC2, S3, RDS), Google Cloud Platform
-- 🧠 AI & Machine Learning: Advanced API integrations, prompt engineering, AI-powered features
-- ⚙️ Advanced Backend: Microservices, message queues (RabbitMQ), caching strategies (Redis)
-- 🔄 DevOps & CI/CD: Docker, Jenkins, automated testing and deployment pipelines
-- 📱 Mobile Development: React Native for cross-platform applications
-- 🧪 Testing & Quality: Unit testing (JUnit), integration testing, test-driven development
-
----
-
-## 📚 Education & Certifications
-
-**B.Tech in Computer Science and Engineering** — Narayana Engineering College, Nellore
-- CGPA: 8.8/10
-- Relevant Coursework: Data Structures, Database Management, Web Development, Software Engineering
-
----
-
-## 🎯 Career Goals
-
-My vision is to become a proficient Full Stack Developer capable of designing and implementing scalable, maintainable solutions that solve real-world problems. I aim to:
-
-- Build products that positively impact users' lives
-- Continuously learn and adapt to emerging technologies
-- Contribute to open-source projects and the developer community
-- Mentor junior developers and share knowledge
-- Work with diverse, talented teams in challenging environments
-
----
-
-## 💡 Key Strengths
-
-- Problem-Solving: Analytical approach to breaking down complex problems into manageable solutions
-- Leadership: Ability to take ownership, make decisions, and drive projects to completion
-- Collaboration: Effective communication and teamwork skills
-- Adaptability: Quick learner who embraces new technologies and methodologies
-- Attention to Detail: Focus on writing clean, maintainable, and well-documented code
-- Time Management: Strong organizational skills with ability to manage multiple tasks efficiently
-
----
-
 ## ⚡ My Development Philosophy
 
 I believe in writing code that speaks for itself—clean, readable, and purposeful. Every line should serve a reason, and every function should solve a problem elegantly. I'm committed to continuous improvement and staying updated with industry best practices.
